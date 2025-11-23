@@ -1,0 +1,7 @@
+requests
+streamlit
+ffmpeg-python
+pillow
+numpy
+fastapi
+ 
