@@ -1,6 +1,6 @@
 # Sora 2 Ai watermark remover
 ![License](https://img.shields.io/badge/license-GPLv3-green.svg?style=flat)
-
+ 
 # Description
 This project is designed to precisely remove watermarks from Sora 2 generated videos using AI.
 
